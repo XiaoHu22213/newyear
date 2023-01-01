@@ -1,0 +1,11 @@
+body{
+	height: :100vh;
+	overflow: hidden;/*多余100%大小的直接隐藏*/
+}
+.main{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
